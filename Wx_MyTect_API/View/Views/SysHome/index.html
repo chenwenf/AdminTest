@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head itemref="SysMaster.head">
+    <title>后台管理</title>
+   
+</head>
+<body>
+    <div itemref="SysMaster.cwf_header"></div>
+    <div itemref="SysMaster.cwf_leftmenu"></div>
+
+   
+    <div id="Child_Div" class="Hui-article-box">
+        <nav class="breadcrumb">
+            <i class="iconfont">&#xeb9d;</i>&nbsp;<a href="javascript: ;" onclick="OnLoadTab('/SysHome/Console','控制台')" class="maincolor">首页</a>
+            <span class="c-999 en">&gt;</span>
+            <span class="c-666">控制台</span>
+            <a class="btn btn-success radius r" style="line-height:1.6em;margin-top:3px" onclick="iframeReplace()" href="javascript:;" title="刷新"><i class="iconfont">&#xeac2;</i></a>
+        </nav>
+        <iframe style="width: 100%;
+            height: 100%;
+            border: none;
+            min-width: 320px;" src="/SysHome/Console"></iframe>
+    </div>
+
+</body>
+</html>

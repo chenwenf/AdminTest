@@ -1,0 +1,174 @@
+http://localhost:64050/SysRoleManager/RoleLinkDetail
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 15:45:35 http://localhost:64050/SysRoleManager/RoleLinkDetail
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+V5.7.8.6 Error : 第 9 行，位置 10 上的开始标记“div”与结束标记“form”不匹配。 第 64 行，位置 7。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysRoleManager\RoleLinkDetail.htmlhttp://localhost:64050/SysRoleManager/AddOrUpdRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 15:48:05 http://localhost:64050/SysRoleManager/AddOrUpdRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束“PK_C_RoleLink”。不能在对象“dbo.C_RoleLink”中插入重复键。重复键值为 (1000)。
+语句已终止。<br />MsSql.Cwf_Test.SQL: <br />insert into [C_RoleLink]([Title],[Icon],[Href],[Type],[CssId],[ParentId]) Values(@Title,@Icon,@Href,@Type,@CssId,@ParentId)<br />Para: @Title-> DBNull.Value<br />Para: @Icon-> &#xea6b;<br />Para: @Href-> DBNull.Value<br />Para: @Type-> 1<br />Para: @CssId-> <br />Para: @ParentId-> 0<br />ExeScalar():违反了 PRIMARY KEY 约束“PK_C_RoleLink”。不能在对象“dbo.C_RoleLink”中插入重复键。重复键值为 (1000)。
+语句已终止。<br />http://localhost:64050/SysRoleManager/AddOrUpdRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?txtTitle=权限管理&Id=&Icon=&%23xea6b;&Type=1&CssId=&ParentId=0&CreateTime=
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 15:49:15 http://localhost:64050/SysRoleManager/AddOrUpdRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?txtTitle=权限管理&Id=&Icon=&%23xea6b;&Type=1&CssId=&ParentId=0&CreateTime=
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeScalar():违反了 PRIMARY KEY 约束“PK_C_RoleLink”。不能在对象“dbo.C_RoleLink”中插入重复键。重复键值为 (1000)。
+语句已终止。<br />MsSql.Cwf_Test.SQL: <br />insert into [C_RoleLink]([Title],[Icon],[Href],[Type],[CssId],[ParentId]) Values(@Title,@Icon,@Href,@Type,@CssId,@ParentId)<br />Para: @Title-> DBNull.Value<br />Para: @Icon-> &#xea6b;<br />Para: @Href-> DBNull.Value<br />Para: @Type-> 1<br />Para: @CssId-> <br />Para: @ParentId-> 0<br />ExeScalar():违反了 PRIMARY KEY 约束“PK_C_RoleLink”。不能在对象“dbo.C_RoleLink”中插入重复键。重复键值为 (1000)。
+语句已终止。<br />http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:17:08 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:17:39 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:18:14 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:18:57 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:21:34 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:24:49 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:28:48 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:33:07 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList
+---------------------------------------
+
+值不能为 null。
+参数名: valuehttp://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:37:08 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeNonQuery():“)”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />delete from [C_RoleLink] where Id in ()<br />ExeNonQuery():“)”附近有语法错误。<br />http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:37:31 http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeDataReader():关键字 'SET' 附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />select top 1 * from [C_RoleLink] where Id=<br />ExeDataReader():关键字 'SET' 附近有语法错误。<br />http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:40:45 http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeDataReader():关键字 'SET' 附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />select top 1 * from [C_RoleLink] where Id=<br />ExeDataReader():关键字 'SET' 附近有语法错误。<br />http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:40:59 http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeDataReader():关键字 'SET' 附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />select top 1 * from [C_RoleLink] where Id=<br />ExeDataReader():关键字 'SET' 附近有语法错误。<br />http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:42:08 http://localhost:64050/SysRoleManager/GetRoleLinkOne
+Referer:http://localhost:64050/SysRoleManager/RoleLinkDetail?statu=2&id=1000
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeDataReader():关键字 'SET' 附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />select top 1 * from [C_RoleLink] where Id=<br />ExeDataReader():关键字 'SET' 附近有语法错误。<br />http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:46:05 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeNonQuery():“,”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />delete from [C_RoleLink] where Id in (,)<br />ExeNonQuery():“,”附近有语法错误。<br />http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:46:50 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeNonQuery():“,”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />delete from [C_RoleLink] where Id in (,)<br />ExeNonQuery():“,”附近有语法错误。<br />http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:47:17 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeNonQuery():“,”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />delete from [C_RoleLink] where Id in (,)<br />ExeNonQuery():“,”附近有语法错误。<br />http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 16:47:33 http://localhost:64050/SysRoleManager/DelRoleLink
+Referer:http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeNonQuery():“,”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />delete from [C_RoleLink] where Id in (,)<br />ExeNonQuery():“,”附近有语法错误。<br />http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 17:44:17 http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 5 行，位置 6 上的开始标记“meta”与结束标记“head”不匹配。 第 45 行，位置 3。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\Shared\SysMaster.htmlhttp://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072?1534758258608
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 17:44:18 http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072?1534758258608
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 5 行，位置 6 上的开始标记“meta”与结束标记“head”不匹配。 第 45 行，位置 3。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\Shared\SysMaster.htmlhttp://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072?1534758258608?1534758259551
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/20 17:44:19 http://localhost:64050/SysRoleManager/RoleLinkList?1534754202416?1534754365593?1534754379984?1534754424056?1534754432524?1534754646599?1534754989416?1534756896248?1534757977617?1534757982048?1534758085128?1534758256072?1534758258608?1534758259551
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 5 行，位置 6 上的开始标记“meta”与结束标记“head”不匹配。 第 45 行，位置 3。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\Shared\SysMaster.html

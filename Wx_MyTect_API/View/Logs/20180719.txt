@@ -1,0 +1,36 @@
+http://localhost:64050/
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 9:29:07 http://localhost:64050/
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 9:39:11 http://localhost:64050/
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 15:33:45 http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 8 行，位置 6 上的开始标记“meta”与结束标记“head”不匹配。 第 42 行，位置 3。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\Shared\SysMaster.htmlhttp://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 15:33:47 http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 8 行，位置 6 上的开始标记“meta”与结束标记“head”不匹配。 第 42 行，位置 3。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\Shared\SysMaster.htmlhttp://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 16:00:53 http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 186 行，位置 209 上的开始标记“br”与结束标记“p”不匹配。 第 186 行，位置 305。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\index.htmlhttp://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 16:01:20 http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 186 行，位置 210 上的开始标记“br”与结束标记“p”不匹配。 第 186 行，位置 306。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\index.htmlhttp://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/19 16:01:46 http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 第 186 行，位置 205 上的开始标记“br”与结束标记“p”不匹配。 第 186 行，位置 301。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\index.html

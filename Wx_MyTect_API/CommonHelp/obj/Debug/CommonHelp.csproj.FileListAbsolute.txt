@@ -1,0 +1,10 @@
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\CommonHelp.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\CommonHelp.pdb
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\CYQ.Data.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\Taurus.Core.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\CYQ.Data.xml
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\bin\Debug\Taurus.Core.xml
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\obj\Debug\CommonHelp.csproj.CoreCompileInputs.cache
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\obj\Debug\CommonHelp.csproj.CopyComplete
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\obj\Debug\CommonHelp.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\CommonHelp\obj\Debug\CommonHelp.pdb

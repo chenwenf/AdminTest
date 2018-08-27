@@ -1,0 +1,5 @@
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\Model\bin\Debug\Model.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\Model\bin\Debug\Model.pdb
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\Model\obj\Debug\Model.dll
+F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\Model\obj\Debug\Model.pdb

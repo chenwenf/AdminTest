@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head itemref="SysMaster.head">
+    <title>权限菜单详情</title>
+</head>
+<body class="childrenBody">
+    <form class="layui-form" id="form" style="margin-top: 50px;">
+        <div class="user_left">
+            <div class="layui-form-item">
+                <label class="layui-form-label">名称</label>
+                <div class="layui-input-block">
+                    <input type="text" value="" class="layui-input" autocomplete="off" id="txtTitle" name="txtTitle" />
+
+                    <input type="text" hidden="hidden" id="Id" value="" name="Id" />
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">路径</label>
+                <div class="layui-input-block">
+                    <input type="text" value="" class="layui-input" id="Href" autocomplete="off" name="Href" />
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">标签图</label>
+                <div class="layui-input-block">
+                    <input type="text" value="" class="layui-input" id="Icon"
+                           autocomplete="off" name="Icon" style="float:left;width:160px" />
+                    <i class="iconfont" id="Icon_1" style="margin:10px;float:left"></i>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">类型</label>
+                <div class="layui-input-block" style="width:300px">
+                    <select id="Type" name="Type">
+                        <option value="0">菜单</option>
+                        <option value="1">按钮</option>
+                    </select>
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">样式/编号名称</label>
+                <div class="layui-input-block">
+                    <input type="text" value="" class="layui-input" id="CssId" autocomplete="off" name="CssId" />
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">上级名称</label>
+                <div class="layui-input-block" style="width:300px">
+                    <select id="ParentId" name="ParentId">
+                        <option value="0">顶级菜单</option>
+                    </select>
+                </div>
+            </div>
+            <div class="layui-form-item" id="div1" style="display:none">
+                <div class="layui-input-block">
+                    <button type="submit" class="layui-btn" lay-submit="" lay-filter="update">立即提交</button>
+                </div>
+            </div>
+            <div class="layui-form-item" id="add" style="display:none">
+                <div class="layui-input-block">
+                    <button type="submit" class="layui-btn" lay-submit="" lay-filter="add">立即添加</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <script  type="text/javascript" src="/Scripts/SysAdminJs/Role/RoleLink_1.js"  charset="utf-8"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/1 16:13:09 http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/1 16:14:12 http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/1 16:15:41 http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/1 16:24:36 http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+
+未将对象引用设置到对象的实例。http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/1 16:26:24 http://localhost:64050/SysLogin/LoginInApi
+Referer:http://localhost:64050/SysLogin/login
+---------------------------------------
+
+未将对象引用设置到对象的实例。

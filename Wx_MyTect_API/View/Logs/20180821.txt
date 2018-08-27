@@ -1,0 +1,162 @@
+http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:15:20 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+V5.7.8.6 Error : MsSql Call Function::ExeDataReader():“1”附近有语法错误。<br />MsSql.Cwf_Test.SQL: <br />SELECT l.*,m.rid,case when m.rid is null then 0 else 1 end IsCheck   FROM C_RoleLink l left join  C_RoleManager m  on m.RId=l.Idwhere 1=1  AND rid='1'<br />ExeDataReader():“1”附近有语法错误。<br />http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:20:13 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+发现不明确的匹配。http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:21:41 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+发现不明确的匹配。http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:22:36 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+发现不明确的匹配。http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:25:33 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:25:33 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:26:04 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:26:04 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:26:06 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:26:06 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+V5.7.8.6 Record On : 2018/8/21 17:26:19 http://localhost:64050/SysRoleManager/GetRoleOne
+Referer:http://localhost:64050/SysRoleManager/RoleDetail?statu=2&id=1
+---------------------------------------
+
+[Exception]:对象与目标类型不匹配。:
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)
+   在 System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   在 System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   在 System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   在 CYQ.Data.Table.MDataRow.LoadFrom(Object entity, BreakOp op)

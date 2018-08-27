@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head itemref="SysMaster.head">
+    <title>权限菜单详情</title>
+</head>
+<body class="childrenBody">
+    <form class="layui-form" id="form" style="margin-top: 50px;">
+        <div class="user_left">
+            <div class="layui-form-item">
+                <label class="layui-form-label">名称</label>
+                <div class="layui-input-block">
+                    <input type="text" value="" class="layui-input" autocomplete="off" id="txtName" name="txtName" />
+
+                    <input type="text" hidden="hidden" id="Id" value="" name="Id" />
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">权限范围</label>
+                <div class="layui-input-block" id="div_Role" style="width:300px;">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">备注</label>
+                <div class="layui-input-block">
+                    <textarea autocomplete="off" class="layui-input" id="Remark" name="Remark" style="width:320px;height:100px;"></textarea>
+                </div>
+            </div>
+            <div class="layui-form-item" id="div1" style="display:none">
+                <div class="layui-input-block">
+                    <button type="submit" class="layui-btn" lay-submit="" lay-filter="update">立即提交</button>
+                </div>
+            </div>
+            <div class="layui-form-item" id="add" style="display:none">
+                <div class="layui-input-block">
+                    <button type="submit" class="layui-btn" lay-submit="" lay-filter="add">立即添加</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <script  type="text/javascript" src="/Scripts/SysAdminJs/Role/RoleDetail.js"  charset="utf-8"></script>
+</body>
+</html>

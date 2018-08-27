@@ -1,0 +1,22 @@
+http://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/20 17:02:47 http://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 有多个根元素。 第 5 行，位置 2。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\Console.htmlhttp://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/20 17:02:54 http://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 有多个根元素。 第 5 行，位置 2。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\Console.htmlhttp://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+V5.7.8.6 Record On : 2018/7/20 17:03:15 http://localhost:64050/SysHome/Console
+Referer:http://localhost:64050/SysHome/index
+---------------------------------------
+
+V5.7.8.6 Error : 有多个根元素。 第 5 行，位置 2。filename : F:\cc_demo\Wx_MyTect_API\Wx_MyTect_API\View\Views\SysHome\Console.html
